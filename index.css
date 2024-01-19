@@ -103,9 +103,13 @@ main {
     align-items: center;
 }
 
-.appointments_list__appointment__upper img {
+.avatar {
     margin-right: 1rem;
+    border-radius: 50%;
+    height: 2rem;
+
 }
+
 
 .appointments_list__appointment__upper__info {
     display: flex;
